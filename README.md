@@ -13,9 +13,8 @@
 1.  Install Ollama Ollama is required for running local LLMs.
     
 
-    #### Linux/Mac:
-
-    bash curl -fsSL https://ollama.ai/install.sh | sh Windows: Download from ollama.ai/download
+    #### Linux/Mac: bash curl -fsSL https://ollama.ai/install.sh | sh 
+    #### Windows: Download from ollama.ai/download
 
     Pull your desired model (example: mistral:7b):
 
